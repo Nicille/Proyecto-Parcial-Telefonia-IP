@@ -1,0 +1,67 @@
+body{
+    background-color: #ebb31b;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    padding-top: 10px;
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+   
+}
+h1{
+    background-color: #2f4af4;
+    color: #fff;
+    border-radius: 25px;
+    padding:20px;
+
+}
+.descripcion{
+    background-color: #f4df41;
+    color: black;
+    border-radius: 25px;
+    padding:20px;
+    text-align: justify;
+    font-size: 18px;
+    font-weight: bold;
+}
+.estudiantes{
+    background-color: #2ff4e7;
+    color: black;
+    border-radius: 25px;
+    padding:10px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.card-title{
+    font-size: 16px;
+    text-align: center;
+}
+.card-img-top{
+    width: 100%;
+    height: auto;
+    border-radius: 55%;
+
+}
+
+footer{
+    background-color: #2f4af4;
+    color: #fff;
+    border-radius: 25px;
+    padding:10px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
